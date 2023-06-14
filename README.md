@@ -1,4 +1,6 @@
-👋 Hello there! I'm [Kenneth Pole], a passionate Front-End Engineer with a knack for crafting engaging and user-friendly web experiences. Here's a glimpse into my GitHub bio:
+👋 Hello there! I'm Kenneth Pole, a passionate Front-End Engineer with a knack for crafting engaging and user-friendly web experiences.
+<br/>
+Here's a glimpse into my GitHub bio:
 <br/>
 🚀 About Me:<br/>
 ✨ Front-End Developer | UI/UX Design | Problem Solver<br/>
