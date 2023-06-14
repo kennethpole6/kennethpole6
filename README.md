@@ -1,4 +1,3 @@
-👋 Hello there! I'm Kenneth Pole, a passionate Front-End Engineer with a knack for crafting engaging and user-friendly web experiences.
 <br/>
 Here's a glimpse into my GitHub bio:
 <br/>
@@ -23,8 +22,8 @@ Here's a glimpse into my GitHub bio:
 💡 Collaboration and Communication<br/>
 <br/>
 📫 Let's Connect:<br/>
-🌐 Portfolio: (https://kennethpole6.vercel.app/)<br/>
-🔗 LinkedIn: (https://www.linkedin.com/in/kenneth-pole/)<br/>
+🌐 Portfolio: https://kennethpole6.vercel.app<br/>
+🔗 LinkedIn: (https://www.linkedin.com/in/kenneth-pole<br/>
 📧 Email: polekenneth11@gmail.com<br/>
 📷 Instagram: kennethpole6<br/>
 <br/>
