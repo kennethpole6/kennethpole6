@@ -1,30 +1,8 @@
+
+<h1 align="center">Hello there 👋, my name is Kenneth and I am a Front-End Engineer, I'm passionate about UX Design and building web that client needs.</h1>
 <br/>
-Here's a glimpse into my GitHub bio:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethpole6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethpole6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <br/>
-🚀 About Me:<br/>
-✨ Front-End Developer | UI/UX Design | Problem Solver<br/>
-🌟 Turning Ideas into Beautiful Web Solutions<br/>
-<br/>
-💻 Tech Stack:<br/>
-🔧 HTML5, CSS3, JavaScript (ES6+), Typescript<br/>
-⚡️ Modern JS frameworks: React, Next JS<br/>
-🎨 UI/UX Design: Figma<br/>
-🚀 Version Control: Git, GitHub<br/>
-📊 Responsive Design: Bootstrap, Tailwind CSS, Ant Design, Material UI<br/>
-🔍 Testing and Debugging: Chrome DevTools<br/>
-<br/>
-✨ Key Skills:<br/>
-💡 Translating Design into Code<br/>
-💡 Responsive and Mobile-First Development<br/>
-💡 Cross-Browser Compatibility<br/>
-💡 Performance Optimization<br/>
-💡 Front-End Testing and Debugging<br/>
-💡 Collaboration and Communication<br/>
-<br/>
-📫 Let's Connect:<br/>
-🌐 Portfolio: https://kennethpole6.vercel.app<br/>
-🔗 LinkedIn: (https://www.linkedin.com/in/kenneth-pole<br/>
-📧 Email: polekenneth11@gmail.com<br/>
-📷 Instagram: kennethpole6<br/>
-<br/>
-✨ Let's collaborate to create stunning web experiences that make a difference! Feel free to reach out to me for exciting opportunities or any web-related discussions.
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=difrmyocvjygnqpxw4agbcvl0)](https://open.spotify.com/user/difrmyocvjygnqpxw4agbcvl0)
